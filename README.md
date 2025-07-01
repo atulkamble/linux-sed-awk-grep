@@ -38,6 +38,9 @@
   ```bash
   sed 's/pattern/replacement/' filename
   ```
+  ```
+  sed 's/hello/good morning/g' a.txt
+  ```
 
 * **Example**:
 
